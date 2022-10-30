@@ -1,1 +1,1 @@
-{"modules":[],"name":"DingLike","packageName":"cafe.nekohouse.dingtalk","theme":"Default_Light.json","userPermission":["ACCESS_NETWORK_STATE","WRITE_EXTERNAL_STORAGE","READ_EXTERNAL_STORAGE","INTERNET","MANAGE_EXTERNAL_STORAGE","SYSTEM_ALERT_WINDOW"],"versionCode":9,"versionName":"α"}
+{"modules":[],"name":"DingLike","packageName":"cafe.nekohouse.dingtalk","theme":"Default_Light.json","userPermission":["ACCESS_NETWORK_STATE","WRITE_EXTERNAL_STORAGE","READ_EXTERNAL_STORAGE","INTERNET","MANAGE_EXTERNAL_STORAGE","SYSTEM_ALERT_WINDOW"],"versionCode":10,"versionName":"β"}
